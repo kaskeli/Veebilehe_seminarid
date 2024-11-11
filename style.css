@@ -1,0 +1,17 @@
+
+#pealkiri
+h1 {
+    color:bisque;
+    font-family: "Lucida Console", "Courier New", Monoscape;
+    font-size: 30px;
+    text-align: center;
+}
+p {
+    background-color: #f7dff7;
+    font-size: 15px;
+    font-family:'Times New Roman', Times, serif;
+    text-align: justify;
+}
+
+
+
