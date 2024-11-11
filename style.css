@@ -1,10 +1,10 @@
 
-#pealkiri
+
 h1 {
-    color:bisque;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 30px;
-    text-align: center;
+    color:rgb(243, 137, 8) !important;
+    font-family:Verdana, Geneva, Tahoma, sans-serif !important;
+    font-size: 25px !important;
+    text-align: center !important;
 }
 p {
     background-color: #f7dff7;
@@ -13,7 +13,7 @@ p {
     text-align: justify;
 }
 img {
-    border: 3px black;
+    border: 3px solid black;
 
 }
 th {
@@ -30,6 +30,6 @@ body {
 .column {
     flex: 1;
     padding: 10px;
-    border: 1px black;
+    border: 1px solid black;
 }
 
