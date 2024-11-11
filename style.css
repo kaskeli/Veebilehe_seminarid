@@ -16,6 +16,9 @@ img {
     border: 3px black;
 
 }
-
+th {
+    background-color: antiquewhite;
+    font-weight: bold;
+}
 
 
