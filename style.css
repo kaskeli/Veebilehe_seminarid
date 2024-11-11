@@ -2,7 +2,7 @@
 #pealkiri
 h1 {
     color:bisque;
-    font-family: "Lucida Console", "Courier New", Monoscape;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-size: 30px;
     text-align: center;
 }
@@ -11,6 +11,10 @@ p {
     font-size: 15px;
     font-family:'Times New Roman', Times, serif;
     text-align: justify;
+}
+img {
+    border: 3px black;
+
 }
 
 
